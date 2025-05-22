@@ -84,4 +84,41 @@ Conecte-se comigo!
 |  ![CCNA ITN](https://img.shields.io/badge/CISCO_introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
 |  ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black) | AWS Academy Cloud Foundations |
 |  ![AZURE](https://img.shields.io/badge/AZURE_Microsoft_Ai-900-t?style=flat&logo=icloud&logoColor=blue&labelColor=black&color=black) | AZURE Microsoft Ai-900 |
-|  ![SENAI](https://img.shields.io/badge/SENAI_-Implementation_cybersecurity_services_in_Google_Cloud-t?style=flat&logoColor=blue&labelColor=red&color=black) | AZURE Microsoft Ai-900 |
+|  ![SENAI](https://img.shields.io/badge/SENAI_-Implementation_cybersecurity_services_in_Google_Cloud-t?style=flat&logoColor=blue&labelColor=red&color=black) | Implantação de cybersegurança em nuvem |
+
+
+## Conquistas 🏆
+
+- Curso Técnico de Redes
+- Projeto Zabbix (sentinelwatch)
+- Projeto na Azure (CommerCloud)
+- Curso preparatório para o AI 900
+- Casa IOT
+- Certificado AWS CLoud Foundations
+
+## Projetos 🎯
+
+- Casa Inteligente voltada aos PCDs com o uso de IOT (SmartHome Sensations)
+- Monitoramento On-premises com o uso de Zabbix & Grafana (SentinelWatch)
+- Infraestrutura em nuvem utilizando AWS e Azure (Commer Cloud)
+- Cabeamento Estruturado baseado em empresas reais (SENAI)
+- Infraestrutura de Redes no Packet Tracer
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuccaAcm&theme=gotham&hide_border=true&mode=weekly">
+</p>
+
+## Conecte-se comigo! 📬
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luccaacz/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+</p>
+
+<h4 align="center">
+  Thanks for visiting!
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=LuccaAcm&color=green">
+    <div>
+    </h4>
+    </div>
+  </div>
