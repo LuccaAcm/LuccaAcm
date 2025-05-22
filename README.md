@@ -108,6 +108,12 @@ Conecte-se comigo!
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LuccaAcm&theme=gotham&hide_border=true&mode=weekly">
 </p>
 
+##
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LuccaAcm/LuccaAcm/output/snake.svg" alt="Snake animation" />
+
 ## Conecte-se comigo! 📬
 
 <p align="center">
