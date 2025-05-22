@@ -56,6 +56,23 @@ Conecte-se comigo!
 <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+<img src="https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white">
+<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white">
+<img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white">
+<img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
+<img src="https://img.shields.io/badge/Shazam-0088FF?logo=Shazam&logoColor=white">
+<img src="https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white">
+<img src="https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white">
+<img src="https://img.shields.io/badge/Max-000ce0?logo=hbo&logoColor=fff">
+<img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white">
+
+</p>
