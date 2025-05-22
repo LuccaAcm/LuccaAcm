@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00008b&text=Lucca%20Acunzo&section=header&textBg=false&fontColor=ffff&reversal=true&rotate=0&animation=blinking">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1BA178FF&text=Lucca%20Acunzo&section=header&fontColor=FFFF&textBg=false">
 </h1>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=play&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Cloud++Engineer+%7C+Manager+Network">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BA178&width=435&lines=Cloud+Engineer+%7C+Manager+Network">
 </p>
 
 ## Sobre mim ⚡
@@ -84,7 +84,7 @@ Conecte-se comigo!
 |  ![CCNA ITN](https://img.shields.io/badge/CISCO_introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
 |  ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black) | AWS Academy Cloud Foundations |
 |  ![AZURE](https://img.shields.io/badge/AZURE_Microsoft_Ai-900-t?style=flat&logo=icloud&logoColor=blue&labelColor=black&color=black) | AZURE Microsoft Ai-900 |
-|  ![SENAI](https://img.shields.io/badge/SENAI_-Implementation_cybersecurity_services_in_Google_Cloud-t?style=flat&logoColor=blue&labelColor=red&color=black) | Implantação de cybersegurança em nuvem |
+|  ![SENAI](https://img.shields.io/badge/SENAI_-Implementation_cybersecurity_services_in_Google_Cloud-t?style=flat&logoColor=blue&labelColor=red&color=black)| Implantação de cybersegurança em nuvem |
 
 
 ## Conquistas 🏆
