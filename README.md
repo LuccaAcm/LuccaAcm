@@ -76,3 +76,11 @@ Conecte-se comigo!
 <img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white">
 
 </p>
+
+## Certificações 🔥
+
+| Certificação | Nome |
+| --- | --- |
+|  ![CCNA ITN](https://img.shields.io/badge/CISCO_introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introduction to Networks |
+|  ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black) | AWS Academy Cloud Foundations |
+|  ![AZURE](https://img.shields.io/badge/AZURE_Microsoft_Ai-900-t?style=flat&logo=icloud&logoColor=blue&labelColor=black&color=black) | AZURE Microsoft Ai-900 |
