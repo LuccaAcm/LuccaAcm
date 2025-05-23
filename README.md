@@ -87,7 +87,7 @@ Conecte-se comigo!
 |  ![SENAI](https://img.shields.io/badge/SENAI_-Implementation_cybersecurity_services_in_Google_Cloud-t?style=flat&logoColor=blue&labelColor=red&color=black)| Implantação de cybersegurança em nuvem |
 
 
-## Conquistas 🏆
+## Conquistas 🎖️
 
 - Curso Técnico de Redes
 - Projeto Zabbix (sentinelwatch)
@@ -128,3 +128,5 @@ Conecte-se comigo!
     </h4>
     </div>
   </div>
+
+  </p>
