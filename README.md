@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1BA178FF&text=Lucca%20Acunzo&section=header&fontColor=FFFF&textBg=false">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=032e8c&text=Lucca%20Acunzo&fontColor=ffff">
 </h1>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BA178&width=435&lines=Cloud+Engineer+%7C+Manager+Network">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=25&duration=2000&pause=3000&color=032E8C&width=435&lines=Cloud+Engineer+%7C+Manager+Network">
 </p>
 
 ## Sobre mim ⚡
@@ -76,6 +76,7 @@ Conecte-se comigo!
 <img src="https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white">
 
 </p>
+
 
 ## Certificações 🔥
 
