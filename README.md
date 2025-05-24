@@ -85,6 +85,7 @@ Conecte-se comigo!
 |  ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black) | AWS Academy Cloud Foundations |
 |  ![AZURE](https://img.shields.io/badge/AZURE_Microsoft_Ai-900-t?style=flat&logo=icloud&logoColor=blue&labelColor=black&color=black) | AZURE Microsoft Ai-900 |
 |  ![SENAI](https://img.shields.io/badge/SENAI_-Implementation_cybersecurity_services_in_Google_Cloud-t?style=flat&logoColor=blue&labelColor=red&color=black)| Implantação de cybersegurança em nuvem |
+|  ![AWS_CD](https://img.shields.io/badge/AWS%20Academy%20Cloud%20Developing-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=black&color=black) | AWS Academy Developing|
 
 
 ## Conquistas 🎖️
