@@ -11,7 +11,7 @@
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/99/56/9c/99569cfdb06e4027403c308cd4b5f103.gif">
 
-Cursando o terceiro semestre de Redes de Computadores no SENAI com foco em Cloud, além disso,
+Recentemente conclui o curso de Técnico Redes de Computadores no SENAI.Com foco em Cloud, além disso,
 possuo experiência pratica com nuvem AWS e Azure com certificado em ambas.
 
 Conecte-se comigo!
